@@ -95,3 +95,4 @@ MY-REACT-APP/
 + Ensure Node.js and npm are installed to run the project.
 + Tailwind CSS is used for styling the application.
 + Customize the validation and error handling as per your requirements.# Guruji-Astro
+# Guruji-Astro
