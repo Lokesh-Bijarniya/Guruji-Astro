@@ -36,11 +36,11 @@ MY-REACT-APP/
 
 1. **Clone the Repository:**
    ```sh
-   git clone <your-forked-repository-url>
+   git clone https://github.com/Lokesh-Bijarniya/Guruji-Astro.git
 
 2. **Navigate to the Project Directory:**
    ```sh
-   cd <repository-name>
+   cd Guruji-Astro
 
 3. **Create a Branch with Your Name:**
    ```sh
